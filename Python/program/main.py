@@ -31,7 +31,7 @@ bu_ani = Dosen("66666", "Ani Anisyah S.Pd., M.T.", "Perempuan", "UPI",
 bu_rani = Dosen("77777", "Dr. Rani Megasari M.T.", "Perempuan", "UPI",
                 "ranimegasari@upi.edu", "89202211", "FPMIPA", "S3", "Data")
 bu_rosa = Dosen("88888", "Rosa Ariana Sukamto M.T.", "Perempuan", "UPI",
-                "anianisyah@upi.edu", "88021231", "FPMIPA", "S3", "Programming")
+                "rosaariana@upi.edu", "88021231", "FPMIPA", "S3", "Programming")
 pak_tatang = Dosen("88888", "Tatang Sukesna M.T.", "Laki - laki", "UPI",
                    "tatangs@upi.edu", "850123231", "FPMIPA", "S3", "Kalkulus")
 
