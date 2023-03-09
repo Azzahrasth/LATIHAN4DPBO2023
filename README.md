@@ -39,5 +39,6 @@ Terdapat 3 Kelas yaitu kelas Human, Sivitas Akademik, dan Mahasiswa
 - menampilkan isi list mahasiswa
 
 ## -- Dokumentasi saat Program  di Jalankan --
-### Program dengan Java
-![1](https://user-images.githubusercontent.com/100898963/220070615-6b9de5ad-583a-4da5-9d10-4c3e3a5fcfb1.jpg)
+### Program dengan CPP
+
+<img width="299" alt="Screenshot 2023-03-09 235345" src="https://user-images.githubusercontent.com/100898963/224105770-d508748f-12cf-4555-9870-90ec791a1ddb.png">
